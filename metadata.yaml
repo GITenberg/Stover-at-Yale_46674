@@ -38,6 +38,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Stover at Yale
 url: http://www.gutenberg.org/ebooks/46674
 wikipedia:
